@@ -8,7 +8,7 @@ const typewriterHeadlines = [
   "Designer",
   "Coffeeholic",
   "Freelancer",
-  "Globetrotter",
+  "Dog whisperer",
 ];
 let index = 0;
 const typewriter = document.getElementById("typewriter");

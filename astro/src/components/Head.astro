@@ -17,7 +17,7 @@ const { title } = Astro.props;
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
   <!-- reference open graph details -->
-  <meta property="og:site_name" content="Lokkee Studios" />
+  <meta property="og:site_name" content="BRAINDUMP Studio" />
   <meta property="og:title" content={title} />
   <meta property="og:description" content={site.description} />
   <meta property="og:type" content="website" />
@@ -61,20 +61,23 @@ const { title } = Astro.props;
   </noscript>
 
   <!-- google site verification -->
-  <meta name="google-site-verification" content="M5b_xgbjIoOjw_GHMkLyUdW-uSAfYHuL9Elqv5IloxQ" />
+  <!-- <meta
+    name="google-site-verification"
+    content="M5b_xgbjIoOjw_GHMkLyUdW-uSAfYHuL9Elqv5IloxQ"
+  /> -->
 
   <!-- global site tag - google analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-QRN4K9F9Q2"
-  ></script>
+  <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=G-QRN4K9F9Q2"
+  ></script> -->
   <script is:inline>
     window.dataLayer = window.dataLayer || [];
     function gtag() {
       dataLayer.push(arguments);
     }
-    gtag('js', new Date());
+    gtag("js", new Date());
 
-    gtag('config', 'G-QRN4K9F9Q2', {
-      cookie_flags: 'max-age=7200;secure;samesite=none',
+    gtag("config", "G-QRN4K9F9Q2", {
+      cookie_flags: "max-age=7200;secure;samesite=none",
     });
   </script>
 </head>

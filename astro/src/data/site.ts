@@ -2,13 +2,13 @@ export default {
   // website description
   description: `I'm Lokkee, a passionate freelancer bringing you programming and design from the future. I am experienced in developing web and desktop applications including full front end design. This includes brand identity, graphics and illustrations.`,
   // contact email
-  email: `hello@lokkeestudios.com`,
+  email: `utkarshchaudhary2049@gmail.com`,
   // site url
-  url: `https://lokkeestudios.com`,
+  url: `https://braindumpstudio.com`,
   // source code url
-  sourcecodeURL: `https://sourcecode.lokkeestudios.com`,
+  sourcecodeURL: `https://github.com/uc129/braindumpstudio.git`,
   // github url
-  githubURL: `https://github.lokkeestudios.com`,
+  githubURL: `https://github.com/uc129/braindumpstudio.git`,
   // discord server url
-  discordURL: `https://discord.lokkeestudios.com`,
+  discordURL: `https://discord.braindumpstudio.com`,
 };

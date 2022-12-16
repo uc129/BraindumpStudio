@@ -10,3 +10,4 @@ node_modules
 
 # macos-specific files
 .DS_Store
+.vercel

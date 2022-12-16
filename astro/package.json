@@ -1,10 +1,10 @@
 {
   "name": "lokkee-studios",
   "version": "1.0.0",
-  "homepage": "https://lokkeestudios.com/",
+  "homepage": "",
   "license": "UNLICENSED",
   "description": "Programming and Design from the Future",
-  "author": "Lokkee Studios",
+  "author": "BRAINDUMP STUDIO",
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",

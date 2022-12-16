@@ -6,7 +6,7 @@
 
 # BRAINDUMP Studio<br>Programming and Design from the Future
 
-<sup>Copyright &copy; 2022 Braindump Studio All Rights Reserved.</sup>
+<sup>Copyright &copy; 2022 BRAINDUMP Studio All Rights Reserved.</sup>
 
 This is the source code of my [personal portfolio website](https://braindumpstudio.vercel.app.
 

@@ -1,10 +1,10 @@
 {
-  "name": "lokkeestudios",
+  "name": "braindumpstudios",
   "private": true,
   "version": "1.0.0",
   "description": "",
   "main": "package.json",
-  "author": "LOKKEE STYLEZ <kilian_peters@gmx.de>",
+  "author": "",
   "license": "UNLICENSED",
   "scripts": {
     "start": "sanity start",

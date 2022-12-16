@@ -8,6 +8,6 @@
 
 <sup>Copyright &copy; 2022 Braindump Studio All Rights Reserved.</sup>
 
-This is the source code of my [personal portfolio website](https://braindumpstudio.com).
+This is the source code of my [personal portfolio website](https://braindumpstudio.vercel.app.
 
 Why don't you check out the fancy time machine I built over there?
